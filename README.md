@@ -15,8 +15,8 @@ This project demonstrates an image classification application using TensorFlow a
 ## 📦 Installation
 ### Clone the repository:
    ```bash
-   git clone https://github.com/your-username/food-image-classification.git
-   cd food-image-classification
+   git clone https://github.com/omraj0/food-vision.git
+   cd food-vision
   ```
 **Install the required packages:**
 ```bash
