@@ -1,4 +1,4 @@
-# 🍲 Food Image Classification
+# 🍲 Food Vision (Food Image Classification)
 
 This project demonstrates an image classification application using TensorFlow and Streamlit. The model is trained to classify images of various Indian food items.
 
